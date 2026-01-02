@@ -23,14 +23,6 @@ Currently based in Ireland.
 
 ---
 
-### 🚀 Focus areas
-- Data Engineering & Analytics
-- ETL Pipelines
-- Data Quality & Validation
-- Cloud & Containers
-
----
-
 ### 🧰 Toolbox
 
 <p>
@@ -63,19 +55,4 @@ Currently based in Ireland.
   <img src="https://img.shields.io/badge/Linux-333?logo=linux" />
   <img src="https://img.shields.io/badge/Git-333?logo=git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-333" />
-
-  <img src="https://img.shields.io/badge/Parquet-333" />
-  <img src="https://img.shields.io/badge/CSV-333" />
-  <img src="https://img.shields.io/badge/JSON-333" />
-  <img src="https://img.shields.io/badge/XML-333" />
 </p>
-
-
-#### Data Formats
-<p>
-  <img src="https://img.shields.io/badge/Parquet-333" />
-  <img src="https://img.shields.io/badge/CSV-333" />
-  <img src="https://img.shields.io/badge/JSON-333" />
-  <img src="https://img.shields.io/badge/XML-333" />
-</p>
-
