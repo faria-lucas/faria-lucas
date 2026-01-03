@@ -1,16 +1,3 @@
-<h1 align="center">Lucas de Faria</h1>
-
-<p align="center">
-  Data Engineer · Python · SQL · Analytics
-</p>
-
-<p align="center">
-  <a href="https://github.com/faria-lucas">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/defaria-lucas/">LinkedIn</a>
-</p>
-
----
-
 ### 👋 About
 Hi there!
 
