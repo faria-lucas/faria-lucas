@@ -1,4 +1,3 @@
-### 👋 About
 Hi there!
 
 I'm mostly interested in:
@@ -10,7 +9,7 @@ Currently based in Ireland.
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-333?logo=python" />
